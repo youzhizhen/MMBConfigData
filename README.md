@@ -1,0 +1,2 @@
+# MMBConfigData
+spring config server
